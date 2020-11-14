@@ -1,0 +1,8 @@
+{
+  "name": "breath-relaxer-app",
+  "version": "1.0.0",
+  "description": "A simple breathe app",
+  "main": "index.html",
+  "author": "JC",
+  "license": "ISC"
+}
